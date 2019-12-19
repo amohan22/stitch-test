@@ -1,0 +1,4 @@
+apiVersion: v1
+namespace: xl-wordpress
+name: xl-wordpress
+description: A repo for wordpress

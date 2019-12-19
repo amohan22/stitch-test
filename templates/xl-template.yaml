@@ -1,0 +1,4 @@
+name: wordpress-template
+description: This templates defines operations on my wordpress stack
+fragments:
+  - docker-repository

@@ -1,0 +1,4 @@
+name: docker-repository
+description: Rewrite docker repository url
+type: jython
+file: docker-repository.py

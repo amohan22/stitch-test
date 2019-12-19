@@ -1,5 +1,5 @@
-name: wordpress-template
-description: This templates defines operations on my wordpress stack
+name: xld-docker-compose-template
+description: This templates defines operations on docker compose files
 fragments:
-  - docker-repository
-  - resource-limits
+  - docker-enforce-repository
+  - default-resource-limits

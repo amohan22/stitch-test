@@ -1,4 +1,4 @@
-name: resource-limits
-description: Add resource limits if not set
+name: default-resource-limits
+description: Add default resource limits if not set
 type: jython
 file: resource-limits.py

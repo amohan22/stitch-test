@@ -9,4 +9,4 @@ def stitch(ctx, source):
                 s = image.textValue()
                 n.put("image", "docker.io/%s" % s)
 
-    return nodes
+    return source

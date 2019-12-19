@@ -15,6 +15,6 @@ def stitch(ctx, source):
                                     'memory': '100M'}
                                 }
                             }
-                n.set("deploy", resources)
+                n.putPOJO("deploy", resources)
 
     return source

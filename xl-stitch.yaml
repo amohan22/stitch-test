@@ -1,4 +1,4 @@
 apiVersion: v1
-namespace: xld-docker-compose
-name: xld-docker-compose
+namespace: xld-docker-compose-global
+name: xld-docker-compose-global
 description: A repo docker compose templates

@@ -1,4 +1,4 @@
-name: xld-docker-compose-template
+name: xld-docker-compose-template-global
 description: This templates defines operations on docker compose files
 fragments:
   - docker-enforce-repository

@@ -7,6 +7,6 @@ def stitch(ctx, source):
             image = n.get("image")
             if image:
                 s = image.textValue()
-                n.put("image", "registry-1.docker.io/%s" % s)
+                n.put("image", "docker.io/%s" % s)
 
-    return source
+    return nodes

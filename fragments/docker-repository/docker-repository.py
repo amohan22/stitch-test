@@ -1,6 +1,6 @@
 def stitch(ctx, source):
 
-    nodes = result.get("services")
+    nodes = source.get("services")
 
     if nodes:
         for n in nodes:
